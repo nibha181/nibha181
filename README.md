@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nibha181&color=blueviolet)
 
-Welcome to my GitHub profile! I'm a seasoned software developer with 13 years of experience in mobile app development, specializing in Android and Flutter.
+Welcome to my GitHub profile! I'm a software developer with 13 years of experience in mobile app development, specializing in Android and Flutter.
 
 ## About Me
 
